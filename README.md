@@ -31,7 +31,7 @@ See below for specific syntax:
 
 ----------------
 
-Minecraft Chat syntax:
+### Minecraft Chat syntax:
 
 ## Specify_Duration
 -- For note of specified duration: ```TrackName 5 64 100 2000```
