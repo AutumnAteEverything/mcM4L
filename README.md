@@ -85,4 +85,4 @@ These lines of code from mcM4L.js pertain to the messages you see in the image a
 See the YouTube video for more details.
 
 <a href="https://youtu.be/K2F6CGtxqBQ" target="_blank"><img src="http://img.youtube.com/vi/K2F6CGtxqBQ/0.jpg" 
-alt="mcM4L Demo Video" width="960" height="540" border="0" /></a>
+alt="mcM4L Demo Video" width="480" height="360" border="0" /></a>
