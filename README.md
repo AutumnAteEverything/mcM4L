@@ -82,7 +82,7 @@ These lines of code from mcM4L.js pertain to the messages you see in the image a
 
 <a href="https://drive.google.com/file/d/1mFNc2gM2d7aWTR61Ohf56RJFWv4qIFNw/view?usp=share_link" target="_blank">Download a demo Minecraft world</a> and a connected <a href="https://drive.google.com/file/d/1jnUtdZBBTk2MUmn9QgVS_p8OEe48UdoP/view?usp=share_link" target="_blank">Ableton Live Set</a>. 
 
-See the YouTube video for more details.
+See the <a href="https://youtu.be/K2F6CGtxqBQ" target="_blank">YouTube video</a> for more details.
 
 <a href="https://youtu.be/K2F6CGtxqBQ" target="_blank"><img src="http://img.youtube.com/vi/K2F6CGtxqBQ/0.jpg" 
 alt="mcM4L Demo Video" width="480" height="360" border="0" /></a>
