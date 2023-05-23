@@ -1,10 +1,10 @@
 # mcM4L
- Send data between Minecraft (Java) and Max for Live
+ Send data between Minecraft (Java) and Ableton Live/Max for Live
 
 This script can use Minecraft chat messages to communicate with Max for Live.
 Similarly, messages can be sent from Max for Live to generate Minecraft commands via a Mineflayer bot.
 
-Tested and working on Minecraft Java Edition 1.19.2.
+Tested and working on Minecraft Java Edition 1.19.2. Ableton Suite 11 required.
 I've tested it on MacOs, and it should work on Windows.
 
 Step 1: Install node.js if you haven't already. https://nodejs.org/en 
